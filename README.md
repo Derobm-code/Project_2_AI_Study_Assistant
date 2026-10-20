@@ -34,7 +34,7 @@ ai-study-assistant/
 
 ## Run Locally
 
-1. Clone the repository. -> https://github.com/Derobm-code/AI-Study-Assistant.git
+1. Clone the repository.https://github.com/Derobmcode/Project_1_AI_Study_Assistant.git
 2. Create and activate a virtual environment.
 3. Install the dependencies:
 
